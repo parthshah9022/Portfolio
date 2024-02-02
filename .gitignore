@@ -1,0 +1,70 @@
+# Ignore Gatsby files
+.cache/
+public/
+node_modules/
+node_modules
+gatsby-*.json
+package-lock.json
+
+# Ignore development files
+.DS_Store
+.env*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+*.swp
+Thumbs.db
+
+# Ignore build artifacts and deploy directories
+public/
+__generated__/
+graphql-types.ts
+
+# Ignore Netlify files
+netlify.toml
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore local configuration files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore package manager artifacts
+node_modules/
+yarn-error.log
+
+# Ignore build artifacts
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
