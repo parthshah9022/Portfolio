@@ -13,7 +13,7 @@ showInProjects: true
 Simple to implement, easy to use as it enables parents and students to do the following:
 
 ○ Your connectivity with the organization is just a click away. Accessible e-portfolio records that travel with students to provide continuous support, cohesive learning journey for each student.
-
- https://play.google.com/store/apps/details?id=com.eduwits.ysg&hl=en&gl=US
+<!-- 
+ https://play.google.com/store/apps/details?id=com.eduwits.ysg&hl=en&gl=US -->
 
 

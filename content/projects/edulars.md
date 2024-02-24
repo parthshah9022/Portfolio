@@ -13,4 +13,4 @@ showInProjects: true
 
 ○ Trakance is a versatile tool designed to enhance workplace efficiency by allowing organizations to measure employee effectiveness on a day-to-day basis.
 
-https://play.google.com/store/apps/details?id=com.eduwits.app&hl=en&gl=US
+<!-- https://play.google.com/store/apps/details?id=com.eduwits.app&hl=en&gl=US -->

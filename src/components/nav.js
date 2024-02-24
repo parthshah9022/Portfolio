@@ -8,6 +8,7 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
+import { StaticImage } from 'gatsby-plugin-image';
 
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};
@@ -34,8 +35,8 @@ const StyledHeader = styled.header`
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
     props.scrollDirection === 'up' &&
-      !props.scrolledToTop &&
-      css`
+    !props.scrolledToTop &&
+    css`
         height: var(--nav-scroll-height);
         transform: translateY(0px);
         background-color: rgba(10, 25, 47, 0.85);
@@ -44,8 +45,8 @@ const StyledHeader = styled.header`
 
     ${props =>
     props.scrollDirection === 'down' &&
-      !props.scrolledToTop &&
-      css`
+    !props.scrolledToTop &&
+    css`
         height: var(--nav-scroll-height);
         transform: translateY(calc(var(--nav-scroll-height) * -1));
         box-shadow: 0 10px 30px -10px var(--navy-shadow);
@@ -162,11 +163,30 @@ const Nav = ({ isHome }) => {
     <div className="logo" tabIndex="-1">
       {isHome ? (
         <a href="/" aria-label="home">
-          <IconLogo />
+          {/* <IconLogo /> */}
+
+          <StaticImage
+            src="../images/logo.png"
+            alt="Logo"
+            placeholder="blurred"
+            layout="fixed"
+            width={60}
+            height={60}
+
+          />
+
         </a>
       ) : (
         <Link to="/" aria-label="home">
-          <IconLogo />
+          {/* <IconLogo /> */}
+          <StaticImage
+            src="../images/logo.png"
+            alt="Logo"
+            placeholder="blurred"
+            layout="fixed"
+            width={60}
+            height={60}
+          />
         </Link>
       )}
     </div>

@@ -3,13 +3,13 @@ module.exports = {
 
   socialMedia: [
 
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.linkedin.com/in/parth-shah-30831a12a/',
-    // },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/parthshah921/',
+    },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/parth-shah-30831a12a/',
+      url: 'https://www.linkedin.com/in/parthshah09/',
     },
 
   ],

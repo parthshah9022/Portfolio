@@ -17,5 +17,5 @@ showInProjects: true
 ○ Create stickers for personal expression, events, or special occasions
 
 ○ Access a range of editing tools like cropping, resizing, and adding text to perfect your stickers
-
-https://apps.apple.com/us/app/glimpulse/id1580194898
+<!-- 
+https://apps.apple.com/us/app/glimpulse/id1580194898 -->
