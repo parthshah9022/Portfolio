@@ -172,7 +172,6 @@ const Nav = ({ isHome }) => {
             layout="fixed"
             width={60}
             height={60}
-
           />
 
         </a>

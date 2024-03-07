@@ -2,7 +2,7 @@
 date: '2021-03-27'
 title: 'Edulars'
 github: ''
-external: 'https://play.google.com/store/apps/details?id=com.eduwits.app&hl=en&gl=US'
+external: 'https://apps.apple.com/us/app/edulars/id1533062709'
 tech:
   - Swift
   - Node.js

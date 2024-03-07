@@ -3,7 +3,7 @@ date: '2'
 title: 'AMNS Hospitality'
 cover: './demo.jpg'
 github: ''
-external: 'https://play.google.com/store/apps/details?id=com.trois.amns'
+external: 'https://apps.apple.com/ro/app/amns-hospitality/id1635029064'
 tech:
   - React-Native
   - Styled Components

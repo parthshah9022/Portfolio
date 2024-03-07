@@ -2,7 +2,7 @@
 date: '2021-12-29'
 title: 'Youlars'
 github: ''
-external: 'https://play.google.com/store/apps/details?id=com.eduwits.ysg&hl=en&gl=US'
+external: 'https://apps.apple.com/ca/app/youlars/id1544264452'
 tech:
   - Swift
   - Android

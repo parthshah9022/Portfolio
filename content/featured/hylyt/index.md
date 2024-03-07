@@ -1,20 +1,22 @@
 ---
-date: '3'
-title: 'Hii World'
-cover: './demo.png'
-external: 'https://apps.apple.com/us/app/hi-world-connect/id1624855701'
-cta: 'https://play.google.com/store/apps/details?id=com.hii.world&hl=en&gl=US'
+date: '1'
+title: 'HyLyt - Unified information'
+cover: './hylyt.png'
+github: ''
+external: 'https://apps.apple.com/us/app/hylyt/id1206722492'
 tech:
-  - React native
-  - Redux
-  - Social Logins
+  - Swift
+  - Agora
+  - GRDB
   - Firebase
 ---
 
-○ Create and share digital business cards, manage your contacts and manage voice notes for your contact. 
+○ HyLyt Saves- 30 Minutes A Day. One Of The Best Time Managing Apps
 
-○ Share your virtual card using your unique QR code, email, text message, social media. You can also send anyone the link to your business card
+○ HyLyt Values Your Privacy And Gives You A Feature To Secure Your App With A 2 Level Pin & Other User Level Security Unlike Others. This Is In Addition To The End-To-End 256 Bit Encryption.     
 
-○ Digital business cards is always available on your mobile device, so you’ll never need to order more.
+○ You Interconnect Information Saved In Different Folders Etc. Save Disk Space, No Need To Save Mutiple Copies Of A File In Multiple Folders, Avoid Outdated Files. Link Files Using Tags And Access Them At The Same Time.
 
-○ Include social media profiles and on your virtual business cards—they’re completely customisable and your information will always be up-to-date.
+○ Any Content Selected And Copied/Shared On Any App/Screen Triggers HyLyt Background Service Automatically Which Allows The User To Save The Content In Instantly Without Leaving The Screen And Interrupting What The User Is Doing.
+
+○ HyLyt Helps You Schedule A Reminder Or Calendar Event On Other HyLyt Users’ Phones Without Any Effort On Their Part.
