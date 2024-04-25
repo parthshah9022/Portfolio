@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        4+ years of experience in Software Industry. Helping products to excel in their space by designing, architecting with end to end technical endorsement.
-
-        Specialized in cross platform application Development, Analysis, Design, Development and Deployment project using advanced mobility models.
+        With over 5 years of professional experience, I have honed my expertise in iOS and Android native
+        app development as well as cross-platform development. With a particular focus on cross-platform
+        technologies, showcasing a deep understanding of the mobile app development lifecycle.
       </p>
     </>
   );

@@ -7,16 +7,21 @@ external: 'https://apps.apple.com/us/app/hylyt/id1206722492'
 tech:
   - Swift
   - Agora
+  - UIKit
+  - iOS Frameworks,
   - GRDB
+  - Cocoa Touch
+  - Offline storage and threading
   - Firebase
 ---
 
-○ HyLyt Saves- 30 Minutes A Day. One Of The Best Time Managing Apps
+○ HyLyt Saves- 30 Minutes A Day. One Of The Best Time Managing Apps. HyLyt Values Your Privacy And Gives You A Feature To Secure Your App With A 2 Level Pin & Other User Level Security Unlike Others.    
 
-○ HyLyt Values Your Privacy And Gives You A Feature To Secure Your App With A 2 Level Pin & Other User Level Security Unlike Others. This Is In Addition To The End-To-End 256 Bit Encryption.     
+○  Integrated Google Cloud Platform (GCP) services into iOS applications, utilizing tools such as Cloud Firestore
+for real-time database management and Cloud Functions for serverless backend processes.
 
-○ You Interconnect Information Saved In Different Folders Etc. Save Disk Space, No Need To Save Mutiple Copies Of A File In Multiple Folders, Avoid Outdated Files. Link Files Using Tags And Access Them At The Same Time.
+○ Worked on Advanced Encryption, Adaptive User Interface, Backup and Restore Functionality, Real-time Communication Tools, Social Media Integration, Performance Optimization, and Memory Management.
 
-○ Any Content Selected And Copied/Shared On Any App/Screen Triggers HyLyt Background Service Automatically Which Allows The User To Save The Content In Instantly Without Leaving The Screen And Interrupting What The User Is Doing.
+○ Integrated third-party libraries and APIs seamlessly to expand app functionality and enhance user experience.
 
-○ HyLyt Helps You Schedule A Reminder Or Calendar Event On Other HyLyt Users’ Phones Without Any Effort On Their Part.
+○ Followed Git best practices such as branching strategies, commit hygiene, and pull request reviews to ensure code quality, traceability, and project transparency.

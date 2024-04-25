@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'React-Native', 'Node.js', 'Express.js','MySQL','Swift', 'Angular' , 'Java'];
+  const skills = ['Swift', 'SwiftUI', 'React native', 'TypeScript', 'Node.js', 'Express.js', 'MySQL', 'MongoDB', 'Angular', 'Java', 'Azure DevOps', 'Firebase'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,8 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Parth Shah and I enjoy creating things that live on the internet. My
-              interest in mobile application development started back in 2019 when I completed my B.E. graduation.
+              Hello! My name is Parth Shah. My expertise is rooted in a diverse toolkit that includes programming languages such as Swift, Java, React-native, Node.js, SwiftUI, JavaScript (ES2015+), TypeScript, HTML, and CSS. This foundation enables me to build and style high-quality design systems, mobile apps, and cross-platform digital experiences that cater to a broad audience.</p><br></br>
+            <p>  Let's Connect: I'm always open to discussing new technologies, sharing insights, or exploring collaborations that drive meaningful impact. Whether you're tackling complex challenges or shaping the future of digital experiences, I'd love to connect and see how we can work together to create something exceptional..
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -8,13 +8,17 @@ tech:
   - React native
   - Redux
   - Social Logins
-  - Firebase
+  - Node.js
+  - 
 ---
 
 ○ Create and share digital business cards, manage your contacts and manage voice notes for your contact. 
 
-○ Share your virtual card using your unique QR code, email, text message, social media. You can also send anyone the link to your business card
+○ Developed a comprehensive platform for creating, sharing, and managing digital business cards
 
-○ Digital business cards is always available on your mobile device, so you’ll never need to order more.
+○ Utilized technologies such as Context API, React Hooks, and Redux for state management, alongside native modules and third-party libraries to enhance app performance and user experience.
 
-○ Include social media profiles and on your virtual business cards—they’re completely customisable and your information will always be up-to-date.
+○ Implemented Redux middleware for handling asynchronous actions, such as API requests, and managing side effects within React applications, ensuring seamless data retrieval and manipulation.
+
+○  Utilized React Router for declarative routing in single-page applications (SPAs), facilitating efficient navigation
+and URL handling within the application.
