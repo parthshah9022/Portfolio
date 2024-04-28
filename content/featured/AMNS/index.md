@@ -17,4 +17,7 @@ tech:
 
 ○ Utilized Axios for robust API calls, enabling seamless data fetching and synchronization with the server.
 
+○ Applied understanding of React component lifecycle methods, including componentDidMount,
+componentDidUpdate, and componentWillUnmount, enabling optimal component performance optimization
+
  ○ Worked with Context API, React Hooks, and Redux for state management, alongside native modules and third-party libraries to enhance app performance and user experience.

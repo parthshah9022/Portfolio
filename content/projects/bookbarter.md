@@ -21,3 +21,4 @@ showInProjects: true
 and UI elements, ensuring real-time updates.
 
 <!-- https://apps.apple.com/ca/app/bookbarter/id6498880240 -->
+ 
