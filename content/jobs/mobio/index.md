@@ -9,14 +9,16 @@ url: 'https://mobiosolutions.com/'
 
 • Designed and developed native mobile applications for the Android and iOS platforms using Java, Objective-C, Swift, Swift UI, and React native.
 
-• Wrote unit tests using the XCTest framework to ensure code quality and maintainability in Swift and SwiftUI projects.
+• Owned the entire engineering process from concept to deployment, ensuring seamless delivery of product and achieving a 30% faster time for new features.
+
+• Played a key role in troubleshooting software bugs, working closely with the development team to identify root causes and implement effective solution.
+
+• Created a digital business card application for DP World, enhancing performance with a 20% increase in app responsiveness.
+
+• Implemented advanced features with the Combine framework, enhancing app responsiveness, which led to a 20% improvement in app performance.
+
+• Developed a React Native app by implementing state management with Redux and Redux-Saga, ensuring predictable behavior managing async operations.
 
 • Restructured app architecture for scalability, handling 100,000+ daily active users efficiently.
 
-• Worked in Git/GitHub for collaborative development, coupled with a deep understanding of design patterns like MVVM and MVC for efficient code structuring.
-
-• Utilized UIKit frameworks such as Core Animation, Core Graphics, and Core Data for complex UI animations, graphics rendering, and data persistence in iOS applications.
-
-• Analyzed crash reports from various sources, including the App Store, TestFlight, physical devices, and simulators, to diagnose and resolve application crashes and stability issues.
-
-• Managed App Store Connect metadata and distribution processes, ensuring smooth app submissions, updates, and releases on the App Store.
+• Utilized XCTest and XCUITest for comprehensive testing, resulting in a 50% reduction in bugs.

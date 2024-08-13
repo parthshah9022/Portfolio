@@ -9,17 +9,14 @@ url: 'https://itechnosol.com/'
 
  • Developed and published commercial-grade mobile applications for iOS and Android platforms using native languages, resulting in increased user engagement and market responsiveness.
 
-• Improved data synchronization across devices for a seamless user experience, raising app ratings by 0.5 stars.
-
 • Integrated the latest iOS features to keep the app competitive, sustaining a 4.5+ star rating.
 
-• Optimized memory usage and reduced app launch time by 30% through efficient coding.
+• Used JIRA, Confluence, and Bitbucket, effectively managing project tasks, version control, and collaboration within a large-scale enterprise environment.
+
+• Optimized legacy code, achieving a 70% reduction in app load times and substantially decreasing memory consumption across all user flows.
+
+. Managed App Store Connect metadata and distribution, ensuring smooth app submissions and compliance, which expedited release cycles by 10%.
 
 • Utilized knowledge of the iOS app lifecycle, including memory management, performance optimization, and efficient use of system resources.
 
 • Participated in Agile/Scrum software development methodology, including sprint planning, daily stand-ups, sprint reviews, and retrospectives, to deliver high-quality software iteratively and incrementally.
-
-• Developed UI tests using the XCUITest framework to automate user interface interactions and verify app behavior across multiple devices and iOS versions.
-
-• Utilized URLSession's data, upload, and download tasks to interact with RESTful APIs, fetch remote data, and
-download resources asynchronously
